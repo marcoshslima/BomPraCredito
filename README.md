@@ -19,5 +19,7 @@ Automatize um cenário de testes que acesse a nossa landing page de empréstimo 
 
 Cada submissão deverá utilizar um CPF diferente, gerado automaticamente
 3) O ultimo passo do cadastro está na url "https://demo.bompracredito.com.br/v2/cadastrobasico/endereco"
+
 4) Após a submissão do cadastro, a página "https://demo.bompracredito.com.br/v2/resultado" precisa ser carregada
+
 5) Após a carga da página "https://demo.bompracredito.com.br/v2/resultado", deverá ocorrer um redirect para a página "https://demo.bompracredito.com.br/v2/cadastrocompleto"
